@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="txtDisplay">0</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnCount">Count</string>
+    <string name="btnRandom">Random</string>
+    <string name="txtRandom">0</string>
+</resources>
